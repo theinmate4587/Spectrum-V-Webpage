@@ -1,0 +1,47 @@
+h1{
+  text-align: center;
+  font-family: 'Pacifico', cursive;
+
+}
+
+table{
+  margin: auto;
+}
+a
+{
+  align: center;
+}
+#one{
+  background-color: #e90505;
+  height: 600px;
+  width: 300px;
+  align: center;
+
+
+}
+#two{
+  background-color: #18dc4c;
+  height: 600px;
+  width: 300px;
+align: center;
+}
+#three{
+  background-color: #0b8bf3;
+  height: 600px;
+  width: 300px;
+align: center;
+
+}
+#four{
+  background-color: #FF00B6;
+  height: 600px;
+  width: 300px;
+align: center;
+}
+#five{
+  background-color: #fce303;
+  height: 600px;
+  width: 300px;
+align: center;
+
+}
